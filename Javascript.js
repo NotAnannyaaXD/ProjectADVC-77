@@ -1,0 +1,18 @@
+var first_name = "Anannyaa ";
+var last_name = "Srivastava";
+var add_name = first_name + last_name;
+console.log(add_name);
+var a = 10;
+var b = 5;
+var add = a + b;
+console.log(add);
+var c = 3;
+var d = 2;
+var add2 = c + d;
+console.log(add2);
+var e = 25;
+var add3 = e + e;
+console.log(add3);
+var f = 1;
+var add4 = f + f;
+console.log(add4);
